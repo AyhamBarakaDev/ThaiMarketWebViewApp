@@ -1,0 +1,41 @@
+•	Full Android WebView App Template
+•	Works with any web app/website that works on Chrome browser
+•	Submit your app to the Google Play Store easily
+•	Optimized for exceptional performance
+•	Powered by the powerful Chromium web engine
+•	Easy: Just define your URL (or your local HTML folder) and WebViewGold takes care of the rest!
+•	Display a Splash Screen
+•	Smart Performance Cache Mechanism
+•	Offline Screen with “Try again” button if your app can’t connect to your URL
+•	HTML 5 Audio / HTML 5 Video Fullscreen / HTML Geolocation support
+•	Custom Status Bar Background Color
+•	Language Detection: Append the user system language to the WebView URL
+•	HTML5 Live Audio Recording supported
+•	File Uploads & Camera Uploads supported
+•	Support for uploading multiple files in HTML upload forms
+•	Option to prevent the device from going to sleep mode while the app is active
+•	In-App Purchases & In-App Subscriptions API
+•	Native Sharing Dialog API
+•	Pull To Refresh Functionality
+•	Take Screenshot API
+•	App Version Check API
+•	Dynamic Status Bar Color API
+•	Social Login Support
+•	Swiping Navigation Functionality
+•	Optional Tab Functionality with additional In-App-Browser
+•	“Reset the app” API
+•	“First Run” Dialog
+•	“Rate my app” Dialog
+•	“Follow on Facebook” Dialog
+•	Custom Text Zoom Scaling Option
+•	Easy orientation settings
+•	Powerful QR Code Scanner API
+•	NFC (Near Field Communication) integration possible
+•	Push Notifications via JavaScript
+•	Option to append individual OneSignal/Firebase push user IDs to the web page URL to assign unique push tokens to the user on the server side
+•	OneSignal In-App Messages Support
+•	Support for WalletConnect scheme
+•	Banner & Full-Screen Interstitial Ads by AdMob or Facebook Audience Network can be activated
+•	Advertising ID Support
+•	Screenshot Prevention Option
+•	Auto-Refresh Option
