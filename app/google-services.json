@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297343944025",
+    "project_id": "thai-market-e28c7",
+    "storage_bucket": "thai-market-e28c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297343944025:android:b2f34b6f457dddb4c67848",
+        "android_client_info": {
+          "package_name": "barakacode.thaimarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297343944025-8526fs8r8dp1bb4al27skbdm2a8ebnqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOAV8fGDV0naPbnvhPnlwdOZitJpcoWYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297343944025-8526fs8r8dp1bb4al27skbdm2a8ebnqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
